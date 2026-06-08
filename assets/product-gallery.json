@@ -1,0 +1,72 @@
+[
+  {
+    "productName": "Single Origin Coffees (e.g., Juliana Guevara Java, Gitwe, Irvin Izaguirre, Nelson Moreno)",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/JulianaGuevara_Website_Banner_3_1.jpg?v=1779209036",
+    "alt": "Single Origin Coffees (e.g., Juliana Guevara Java, Gitwe, Irvin Izaguirre, Nelson Moreno) — product photography",
+    "source": "inline",
+    "width": 6000,
+    "height": 2726
+  },
+  {
+    "productName": "Coffee Blends (e.g., Bolt, Eureka, Placebo, Fraction, Day Dream)",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Coffee_1_25597dca-ccff-4c89-8823-c36b535e1683.jpg?v=1778529472",
+    "alt": "Coffee Blends (e.g., Bolt, Eureka, Placebo, Fraction, Day Dream) — product photography",
+    "source": "inline",
+    "width": 3123,
+    "height": 3400
+  },
+  {
+    "productName": "Coffee Subscriptions (Blends, Single Origin)",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Subscription_1205ddc7-e1cd-4871-ab52-0361c1c15f3a.jpg?v=1773684805",
+    "alt": "Coffee Subscriptions (Blends, Single Origin) — product photography",
+    "source": "inline",
+    "width": 1499,
+    "height": 1632
+  },
+  {
+    "productName": "Cascara + Single Serve",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Ferndale_Website_Banner-17.jpg?v=1778085616",
+    "alt": "Cascara + Single Serve — product photography",
+    "source": "inline",
+    "width": 6000,
+    "height": 2726
+  },
+  {
+    "productName": "Brewing Equipment (e.g., MiiR Carafe, Kalita Wave, Aeropress, Breville Espresso Machines)",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Equipment.jpg?v=1773684807",
+    "alt": "Brewing Equipment (e.g., MiiR Carafe, Kalita Wave, Aeropress, Breville Espresso Machines) — product photography",
+    "source": "inline",
+    "width": 1502,
+    "height": 1632
+  },
+  {
+    "productName": "Merchandise (e.g., Stacked Logo Hoodie, Dickies Work Shirt, Madcap Socks)",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_Wholesale_a9adfd95-234c-4c11-b2af-8600756aa54a.jpg?v=1773684806",
+    "alt": "Merchandise (e.g., Stacked Logo Hoodie, Dickies Work Shirt, Madcap Socks) — product photography",
+    "source": "inline",
+    "width": 1499,
+    "height": 1630
+  },
+  {
+    "productName": "E Gift Cards",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Categories_Journal.jpg?v=1778529396",
+    "alt": "E Gift Cards — product photography",
+    "source": "inline",
+    "width": 3128,
+    "height": 3395
+  },
+  {
+    "productName": "Classes & Tours",
+    "imageUrl": "https://www.madcapcoffee.com/cdn/shop/files/Category_CafeLocations-2.jpg?v=1778529449",
+    "alt": "Classes & Tours — product photography",
+    "source": "inline",
+    "width": 3123,
+    "height": 3395
+  },
+  {
+    "productName": "Wholesale Program",
+    "imageUrl": "",
+    "alt": "Wholesale Program — product photography",
+    "source": "fallback"
+  }
+]
