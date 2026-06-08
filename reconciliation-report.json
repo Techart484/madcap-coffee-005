@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-06-08T00:17:54.103Z",
+  "overallConfidence": 0.35,
+  "integrityScore": 0,
+  "discrepancies": [
+    {
+      "field": "title",
+      "confidence": 0.75,
+      "matched": false,
+      "primary": "Madcap Coffee – Madcap Coffee Company",
+      "secondary": "Madcap Coffee &ndash; Madcap Coffee Company",
+      "note": "title: partial agreement (0.75) — review"
+    },
+    {
+      "field": "navLinks",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "ABOUT US",
+        "SHOP",
+        "VISIT",
+        "CLASSES & TOURS",
+        "JOURNAL",
+        "WHOLESALE"
+      ],
+      "secondary": [
+        "LOGIN",
+        "Register Now",
+        "0"
+      ],
+      "note": "navLinks: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "productDescriptions",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "Single Origin Coffees (e.g., Juliana Guevara Java, Gitwe, Irvin Izaguirre, Nelson Moreno) — Premium coffees sourced from specific regions and producers, highlighting unique flavor profiles and the craftsmanship of individual farms.",
+        "Coffee Blends (e.g., Bolt, Eureka, Placebo, Fraction, Day Dream) — Expertly crafted coffee blends designed for consistent flavor, balance, and versatility in brewing.",
+        "Coffee Subscriptions (Blends, Single Origin) — Convenient recurring delivery service for your favorite coffee blends or rotating single origins, ensuring you never run out.",
+        "Cascara + Single Serve — Unique coffee cherry tea and convenient single-serve options for a different coffee experience.",
+        "Brewing Equipment (e.g., MiiR Carafe, Kalita Wave, Aeropress, Breville Espresso Machines) — A selection of high-quality tools and machines for brewing coffee at home, from pour-over drippers to advanced espresso makers.",
+        "Merchandise (e.g., Stacked Logo Hoodie, Dickies Work Shirt, Madcap Socks) — Branded apparel and accessories for fans of Madcap Coffee, including clothing and drinkware.",
+        "E Gift Cards — Digital gift cards perfect for any coffee lover, redeemable for coffee, equipment, or merchandise.",
+        "Classes & Tours — Educational experiences designed to deepen understanding and appreciation for coffee, from brewing techniques to origin stories.",
+        "Wholesale Program — Partnership opportunities for cafes, restaurants, and markets to serve Madcap Coffee, supported by training and high-quality beans."
+      ],
+      "secondary": [
+        "ORDER DETAILS",
+        "COFFEES ON THE MENU",
+        "BREWING GEAR",
+        "APPAREL",
+        "STAY CONNECTED — FOR THOUGHTFUL UPDATES, NEW RELEASES, AND A CLOSER LOOK AT WHAT WE'RE BUILDING."
+      ],
+      "note": "productDescriptions: weak agreement (0.00) — flagged"
+    },
+    {
+      "field": "prices",
+      "confidence": 0,
+      "matched": false,
+      "primary": [
+        "$14.00",
+        "$194.00",
+        "$14.50",
+        "$204.00",
+        "$197.00",
+        "$186.00",
+        "$11.00",
+        "$120.00",
+        "$19.00",
+        "$110.00",
+        "$22.00",
+        "$140.00",
+        "$79.00",
+        "$32.00",
+        "$39.95",
+        "$499.95",
+        "$1,499.95",
+        "$699.95",
+        "$999.95",
+        "$50.00",
+        "$42.50",
+        "$35.00",
+        "$29.75",
+        "$25.00",
+        "$21.25",
+        "$20.00",
+        "$17.00",
+        "$75.00",
+        "$63.75",
+        "$0.00"
+      ],
+      "secondary": [
+        "€12,95",
+        "€170,95",
+        "€179,95",
+        "€173,95",
+        "€163,95",
+        "€9,95",
+        "€105,95",
+        "€16,95",
+        "€96,95",
+        "€19,95",
+        "€123,95",
+        "€69,95",
+        "€28,95",
+        "€35,95",
+        "€440,95",
+        "€1.321,95",
+        "€616,95",
+        "€880,95",
+        "€37,95",
+        "€26,95",
+        "€18,95",
+        "€15,95",
+        "€56,95",
+        "€0,00",
+        "€11,95",
+        "€132,95",
+        "€136,95",
+        "€13,95"
+      ],
+      "note": "prices: weak agreement (0.00) — flagged"
+    }
+  ],
+  "matches": [
+    {
+      "field": "description",
+      "confidence": 1,
+      "matched": true,
+      "primary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wholesale program.",
+      "secondary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wholesale program.",
+      "note": "description: exact agreement"
+    }
+  ],
+  "primarySource": "firecrawl.v2",
+  "secondarySource": "lightscraper.fetch"
+}
